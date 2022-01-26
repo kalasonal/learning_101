@@ -11,4 +11,5 @@ How to create Object of a class.
 read-here:
 https://www.jetbrains.com/help/idea/creating-and-running-your-first-java-application.html#write-code
 push code to git daily.
+ok tested..
 
